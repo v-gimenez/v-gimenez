@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Vinícius Lucídio Gimenez
+# Vinícius Lucídio Gimenez
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:1e293b&text=Vinícius%20Lucídio%20Gimenez&fontColor=ffffff&fontSize=40&animation=fadeIn" width="100%"/>
 
@@ -65,18 +65,6 @@ processamento em lote e integrações externas.
 | 📦 | Processamento em lote |
 | 🧠 | Manutenção de sistemas legados |
 | 🖥️ | Aplicações desktop VCL |
-
-</div>
-
----
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=v-gimenez&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-gimenez&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
