@@ -1,18 +1,19 @@
 <div align="center">
 
-# 👨‍💻 Vinicius Gimenez
+# 👨‍💻 Vinícius Lucídio Gimenez
 
-<img src="https://via.placeholder.com/1200x300/0f172a/ffffff?text=SOFTWARE+DEVELOPER" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:1e293b&text=Vinícius%20Lucídio%20Gimenez&fontColor=ffffff&fontSize=40&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Delphi-Pascal-E62431?style=for-the-badge&logo=delphi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebird-SQL-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Desktop-Applications-0f172a?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Delphi-Developer-red?style=for-the-badge&logo=delphi" />
-<img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/API-Integration-success?style=for-the-badge" />
-
-<br><br>
-
-### ⚡ Backend • APIs • Desktop • Performance
+### ⚡ Automação • APIs • Performance • Sistemas Corporativos
 
 </div>
 
@@ -20,39 +21,33 @@
 
 # 🚀 Sobre
 
-```txt
-Desenvolvedor focado em aplicações desktop,
-integrações REST, automações e performance.
+```pascal
+Desenvolvimento de aplicações desktop em Delphi,
+integrações REST, automações de processos,
+otimização de performance e sistemas corporativos.
 
-Experiência com Delphi, Firebird, APIs,
-processamento de arquivos e sistemas corporativos.
+Experiência com Firebird SQL, manipulação de arquivos,
+processamento em lote e integrações externas.
 ```
 
 ---
 
 # 🛠️ Tecnologias
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
-
-</p>
-
 <div align="center">
 
-### Delphi • Firebird • REST • JSON • SQL
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="60"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Delphi-12-E62431?style=flat-square"/>
+<img src="https://img.shields.io/badge/Object%20Pascal-Language-512BD4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebird-2.5-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST-API-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/JSON-Integration-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Windows-VCL-0078D6?style=flat-square"/>
 
 </div>
-
----
-
-# 📸 Projetos & Sistemas
-
-<p align="center">
-  <img src="https://via.placeholder.com/350x220/111827/ffffff?text=AUTOMATION" width="32%">
-  <img src="https://via.placeholder.com/350x220/111827/ffffff?text=API+SYSTEMS" width="32%">
-  <img src="https://via.placeholder.com/350x220/111827/ffffff?text=REPORTS" width="32%">
-</p>
 
 ---
 
@@ -60,14 +55,16 @@ processamento de arquivos e sistemas corporativos.
 
 <div align="center">
 
-| 💡 | |
+| 🚀 | |
 |---|---|
-| ⚡ | Otimização de sistemas |
 | 🌐 | Integração com APIs |
+| ⚡ | Otimização de performance |
 | 📄 | Processamento de arquivos |
 | 🗄️ | Firebird SQL |
 | 🔒 | Sistemas corporativos |
-| 🚀 | Automação de processos |
+| 📦 | Processamento em lote |
+| 🧠 | Manutenção de sistemas legados |
+| 🖥️ | Aplicações desktop VCL |
 
 </div>
 
@@ -75,13 +72,13 @@ processamento de arquivos e sistemas corporativos.
 
 # 📊 Estatísticas
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=v-gimenez&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-gimenez&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
@@ -90,7 +87,7 @@ processamento de arquivos e sistemas corporativos.
 <div align="center">
 
 <a href="https://github.com/v-gimenez">
-  <img src="https://img.shields.io/badge/GitHub-v--gimenez-000?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-v--gimenez-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -103,8 +100,6 @@ processamento de arquivos e sistemas corporativos.
 
 <div align="center">
 
-# 🚀
-
-### Always learning. Always building.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:1e293b"/>
 
 </div>
