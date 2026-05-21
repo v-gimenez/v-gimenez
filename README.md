@@ -1,7 +1,5 @@
 <div align="center">
 
-# Vinícius Lucídio Gimenez
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:1e293b&text=Vinícius%20Lucídio%20Gimenez&fontColor=ffffff&fontSize=40&animation=fadeIn" width="100%"/>
 
 <br>
@@ -51,11 +49,10 @@ processamento em lote e integrações externas.
 
 ---
 
-# ⚙️ Especialidades
+# ⚙️ Praticas
 
 <div align="center">
 
-| 🚀 | |
 |---|---|
 | 🌐 | Integração com APIs |
 | ⚡ | Otimização de performance |
